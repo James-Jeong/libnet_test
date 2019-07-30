@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef MOD_IP_H
 #define MOD_IP_H
 class IP_header{
