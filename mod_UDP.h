@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef MOD_UDP_H
 #define MOD_UDP_H
 class UDP_header{
