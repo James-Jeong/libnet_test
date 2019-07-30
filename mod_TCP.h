@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef MOD_TCP_H
 #define MOD_TCP_H
 class TCP_header{
