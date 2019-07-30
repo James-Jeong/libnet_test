@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef MOD_ETH_H
 #define MOD_EHT_H
 class Ethernet_header{
